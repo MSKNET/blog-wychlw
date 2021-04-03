@@ -368,17 +368,6 @@ twikoo:
   visitor: false
   option:
 
-  # Artitalk
-  # see https://artitalk.js.org/
-  artitalk:
-    enable: true
-    appId: IDPSF8tFML0TcSqR0y6dqtg2-MdYXbMMI
-    appKey: V92WQXOm22zmQbVB2t1PpmII
-    path:
-    js:
-    option:
-    front_matter:
-
 # Chat Services
 # --------------------------------------
 
