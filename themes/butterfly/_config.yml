@@ -16,6 +16,9 @@ menu:
   #   Movie: /movies/ || fas fa-video
   朋友们喵: /link/ || fas fa-link
   我？: /about/ || fas fa-heart
+  其它||fas fa-list:
+    privacy-policy: /privacy-policy/
+    友联申请: /links-apply/
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
