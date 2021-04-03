@@ -19,9 +19,8 @@ menu:
   其它||fas fa-list:
     privacy-policy: /privacy-policy/
     友联申请: /links-apply/
-    rss:
-      atom: /atom.xml
-      rss2: /rss2.xml
+    rss(atom): /atom.xml
+    rss(rss2): /rss2.xml
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
