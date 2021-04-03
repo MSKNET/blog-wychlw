@@ -1,0 +1,37 @@
+- class_name: 大佬们！！
+  class_desc: 是友联呀~
+  link_list:
+    - name: ⑨BIE
+      link: https://9bie.org/
+      avatar: https://9bie.org/BIE.jpg
+      descr: 伪技术宅的迷之地
+    - name: Yue's blog
+      link: https://yueer.moe/
+      avatar: https://cdn.yukt.cn/blog/photo.png
+      descr: 一个彻头彻尾的笨蛋
+    - name: zcmimi
+      link: https://blog.zcmimi.top/
+      avatar: https://blog.zcmimi.top/img/avatar.webp
+      descr: 一个菜鸡OIer,是archlinuxer
+    - name: 奈の斯
+      link: https://nai.si/
+      avatar: https://nai.si/avatar.jpg
+      descr: 瑟瑟发抖的萌新
+    - name: 皮皮凛の小窝
+      link: https://owomoe.net/
+      avatar: https://cdn.jsdelivr.net/gh/AyagawaSeirin/Assets/img/logo.jpg
+      descr: 永远相信美好的事情即将发生~
+    - name: 約束の明日へ
+      link: https://asuhe.jp/
+      avatar: https://cloud.okaeri.org/v/%E7%BD%91%E7%AB%99/%E5%A4%96%E9%93%BE%E5%9B%BE%E7%89%87/head.png
+      descr: また君を思い出すよ
+    - name: 范滇东的博客
+      link: http://blog.flwfdd.xyz/
+
+
+- class_name: 网站喵~
+  class_desc: 喵喵的金鱼脑袋呀~
+  link_list:
+    - name: Firpe
+      link: https://firpe.cn/
+      descr: 是超好用的PE系统呢！
