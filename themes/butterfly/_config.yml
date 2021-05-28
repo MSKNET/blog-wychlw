@@ -7,7 +7,8 @@
 #   name || link || icon
 
 menu:
-  首页: / || fas fa-home
+  首页: https://www.wcysite.com/ || fas fa-home
+  博客首页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
