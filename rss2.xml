@@ -15,8 +15,37 @@
     <atom:link href="https://blog.wcysite.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>生活在妄想中，是个废物喵</description>
-    <pubDate>Sat, 24 Jul 2021 17:43:59 GMT</pubDate>
+    <pubDate>Sat, 24 Jul 2021 21:36:06 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>当我们按下“净化”时……</title>
+      <link>https://blog.wcysite.com/2021/%E5%BD%93%E6%88%91%E4%BB%AC%E6%8C%89%E4%B8%8B%E5%87%80%E5%8C%96%E6%97%B6%E2%80%A6%E2%80%A6/</link>
+      <guid>https://blog.wcysite.com/2021/%E5%BD%93%E6%88%91%E4%BB%AC%E6%8C%89%E4%B8%8B%E5%87%80%E5%8C%96%E6%97%B6%E2%80%A6%E2%80%A6/</guid>
+      <pubDate>Sat, 24 Jul 2021 18:20:22 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p style=&quot;color:blue; font-size:20px;&quot;&gt;
+建议使用Chrome、Firefox浏览器进行浏览以便于视频内容得到正确加载
+&lt;/p&gt;
+
+&lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.wcysite.com/categories/%E7%9E%8E%E6%83%B3/">瞎想</category>
+      
+      
+      
+      <comments>https://blog.wcysite.com/2021/%E5%BD%93%E6%88%91%E4%BB%AC%E6%8C%89%E4%B8%8B%E5%87%80%E5%8C%96%E6%97%B6%E2%80%A6%E2%80%A6/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>新开了个个人站点（日记喵）</title>
@@ -36,7 +65,7 @@
       
       
       
-      <category domain="https://blog.wcysite.com/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      <category domain="https://blog.wcysite.com/categories/diary/">diary</category>
       
       
       
@@ -129,7 +158,7 @@
       
       
       
-      <category domain="https://blog.wcysite.com/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      <category domain="https://blog.wcysite.com/categories/diary/">diary</category>
       
       
       
@@ -182,7 +211,7 @@
       
       
       
-      <category domain="https://blog.wcysite.com/categories/%E5%85%B6%E5%AE%83/">其它</category>
+      <category domain="https://blog.wcysite.com/categories/others/">others</category>
       
       
       
@@ -307,7 +336,7 @@
       
       
       
-      <category domain="https://blog.wcysite.com/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      <category domain="https://blog.wcysite.com/categories/diary/">diary</category>
       
       
       
@@ -334,7 +363,7 @@
       
       
       
-      <category domain="https://blog.wcysite.com/categories/%E5%85%B6%E5%AE%83/">其它</category>
+      <category domain="https://blog.wcysite.com/categories/others/">others</category>
       
       
       
