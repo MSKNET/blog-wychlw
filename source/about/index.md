@@ -17,13 +17,15 @@ date: 2021-04-27 13:36:48
 
 在没有歧义的情况下，直接叫我 *喵* 也是被认可的
 
----
+<details>
+
+<summary> </summary>
 
 性别嘛...女孩子呀一定是！
 
 ~~不对，性别是猫猫\~！~~
 
----
+</details>
 
 ```
 >>> self.age - 18
@@ -119,19 +121,5 @@ date: 2021-04-27 13:36:48
 
 </details>
 
-# donate
-对不起...打赏我会超级过意不去的呢...
-
-记得备注你是谁喵...不许超过20喵...
-
-<details>
-
-<summary>虽然...真的不要点呢</summary>
-
-USDT (TRC20) : `TYMwHPLd1Z3kiM3MHX62T2tf9tLcTqtqxp`
-
-爱发电 : [https://afdian.net/@lingwang](https://afdian.net/@lingwang)
-
-</details>
 
 <p align="right">by:泠妄 \ \ \  以上</p>
