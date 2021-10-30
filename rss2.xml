@@ -15,8 +15,33 @@
     <atom:link href="https://blog.wcysite.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>生活在妄想中，是个废物喵</description>
-    <pubDate>Fri, 29 Oct 2021 18:47:26 GMT</pubDate>
+    <pubDate>Sat, 30 Oct 2021 04:39:19 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>搭建一个KMS服务器</title>
+      <link>https://blog.wcysite.com/2021/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AAKMS%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <guid>https://blog.wcysite.com/2021/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AAKMS%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <pubDate>Wed, 13 Oct 2021 07:34:38 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;0x55aa-为什么&quot;&gt;&lt;a href=&quot;#0x55aa-为什么&quot; class=&quot;headerlink&quot; title=&quot;0x55aa 为什么&quot;&gt;&lt;/a&gt;0x55aa</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.wcysite.com/categories/note/">note</category>
+      
+      
+      
+      <comments>https://blog.wcysite.com/2021/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AAKMS%E6%9C%8D%E5%8A%A1%E5%99%A8/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>当我们按下“净化”时……</title>
@@ -70,29 +95,6 @@
       
       
       <comments>https://blog.wcysite.com/2021/%E6%96%B0%E5%BC%80%E4%BA%86%E4%B8%AA%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9%EF%BC%88%E6%97%A5%E8%AE%B0%E5%96%B5%EF%BC%89/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://blog.wcysite.com/2021/hello-world/</link>
-      <guid>https://blog.wcysite.com/2021/hello-world/</guid>
-      <pubDate>Tue, 30 Mar 2021 16:00:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you</description>
-          
-        
-      
-      
-      
-      
-      
-      
-      <comments>https://blog.wcysite.com/2021/hello-world/#disqus_thread</comments>
       
     </item>
     
