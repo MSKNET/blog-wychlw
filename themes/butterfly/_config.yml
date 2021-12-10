@@ -133,15 +133,15 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://img.xjh.me/random_img.php?tmp=2
-    - https://img.xjh.me/random_img.php?tmp=3
-    - https://img.xjh.me/random_img.php?tmp=4
-    - https://img.xjh.me/random_img.php?tmp=5
-    - https://img.xjh.me/random_img.php?tmp=6
-    - https://img.xjh.me/random_img.php?tmp=7
-    - https://img.xjh.me/random_img.php?tmp=8
-    - https://img.xjh.me/random_img.php?tmp=9
-    - https://img.xjh.me/random_img.php?tmp=10
+    - https://img.xjh.me/random_img.php?return=302&tmp=2
+    - https://img.xjh.me/random_img.php?return=302&tmp=3
+    - https://img.xjh.me/random_img.php?return=302&tmp=4
+    - https://img.xjh.me/random_img.php?return=302&tmp=5
+    - https://img.xjh.me/random_img.php?return=302&tmp=6
+    - https://img.xjh.me/random_img.php?return=302&tmp=7
+    - https://img.xjh.me/random_img.php?return=302&tmp=8
+    - https://img.xjh.me/random_img.php?return=302&tmp=9
+    - https://img.xjh.me/random_img.php?return=302&tmp=10
     - https://api.paugram.com/wallpaper/?tmp=2
     - https://api.paugram.com/wallpaper/?tmp=3
     - https://api.paugram.com/wallpaper/?tmp=4
