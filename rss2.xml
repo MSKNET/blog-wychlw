@@ -15,8 +15,33 @@
     <atom:link href="https://blog.wcysite.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>生活在妄想中，是个废物喵</description>
-    <pubDate>Wed, 29 Dec 2021 19:20:51 GMT</pubDate>
+    <pubDate>Wed, 29 Dec 2021 23:39:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>n8n—一款开源信息流工具的自搭建与使用</title>
+      <link>https://blog.wcysite.com/2021/n8n%E2%80%94%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E4%BF%A1%E6%81%AF%E6%B5%81%E5%B7%A5%E5%85%B7%E7%9A%84%E8%87%AA%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
+      <guid>https://blog.wcysite.com/2021/n8n%E2%80%94%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E4%BF%A1%E6%81%AF%E6%B5%81%E5%B7%A5%E5%85%B7%E7%9A%84%E8%87%AA%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
+      <pubDate>Mon, 13 Dec 2021 14:54:23 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;什么是n8n&quot;&gt;&lt;a href=&quot;#什么是n8n&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.wcysite.com/categories/note/">note</category>
+      
+      
+      
+      <comments>https://blog.wcysite.com/2021/n8n%E2%80%94%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E4%BF%A1%E6%81%AF%E6%B5%81%E5%B7%A5%E5%85%B7%E7%9A%84%E8%87%AA%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>踩坑DN42-p2-peer!</title>
