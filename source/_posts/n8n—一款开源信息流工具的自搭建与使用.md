@@ -1,6 +1,6 @@
 ---
 title: n8n—一款开源信息流工具的自搭建与使用
-date: 2021-12-13 22:54:23
+date: 2021-12-30 07:40:23
 tags:
 categories: note
 highlight_shrink: false
