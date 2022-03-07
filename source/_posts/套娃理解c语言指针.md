@@ -1,10 +1,5 @@
 ---
 title: 套娃理解c语言指针
-tags:
----
-
----
-title: 套娃理解c语言指针
 date: 2022-03-07 21:32:10
 tags:
 categories: note
