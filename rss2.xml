@@ -15,8 +15,31 @@
     <atom:link href="https://blog.wcysite.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>生活在妄想中，是个废物喵</description>
-    <pubDate>Wed, 11 May 2022 21:28:22 GMT</pubDate>
+    <pubDate>Thu, 12 May 2022 10:52:41 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>在C中面向对象:#0x0 封继承与多态</title>
+      <link>https://blog.wcysite.com/2022/%E5%9C%A8C%E4%B8%AD%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1-0x0-%E5%B0%81%E8%A3%85%E3%80%81%E7%BB%A7%E6%89%BF%E4%B8%8E%E5%A4%9A%E6%80%81/</link>
+      <guid>https://blog.wcysite.com/2022/%E5%9C%A8C%E4%B8%AD%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1-0x0-%E5%B0%81%E8%A3%85%E3%80%81%E7%BB%A7%E6%89%BF%E4%B8%8E%E5%A4%9A%E6%80%81/</guid>
+      <pubDate>Mon, 09 May 2022 07:24:09 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前言：为什么要在C中面向对象&quot;&gt;&lt;a href=&quot;#前言：为什么要在C中面向对象&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blog.wcysite.com/2022/%E5%9C%A8C%E4%B8%AD%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1-0x0-%E5%B0%81%E8%A3%85%E3%80%81%E7%BB%A7%E6%89%BF%E4%B8%8E%E5%A4%9A%E6%80%81/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>套娃理解c语言指针</title>
